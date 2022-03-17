@@ -1,0 +1,7 @@
+C:\Users\mfabbri\source\repos\Vs\MyWcf\WcfExample\bin\Debug\WcfExample.dll.config
+C:\Users\mfabbri\source\repos\Vs\MyWcf\WcfExample\bin\Debug\WcfExample.dll
+C:\Users\mfabbri\source\repos\Vs\MyWcf\WcfExample\bin\Debug\WcfExample.pdb
+C:\Users\mfabbri\source\repos\Vs\MyWcf\WcfExample\obj\Debug\WcfExample.csproj.AssemblyReference.cache
+C:\Users\mfabbri\source\repos\Vs\MyWcf\WcfExample\obj\Debug\WcfExample.csproj.CoreCompileInputs.cache
+C:\Users\mfabbri\source\repos\Vs\MyWcf\WcfExample\obj\Debug\WcfExample.dll
+C:\Users\mfabbri\source\repos\Vs\MyWcf\WcfExample\obj\Debug\WcfExample.pdb

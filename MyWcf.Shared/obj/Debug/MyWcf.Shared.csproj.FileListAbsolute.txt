@@ -1,0 +1,6 @@
+C:\Users\mfabbri\source\repos\Vs\MyWcf\MyWcf.Shared\bin\Debug\MyWcf.Shared.dll
+C:\Users\mfabbri\source\repos\Vs\MyWcf\MyWcf.Shared\bin\Debug\MyWcf.Shared.pdb
+C:\Users\mfabbri\source\repos\Vs\MyWcf\MyWcf.Shared\obj\Debug\MyWcf.Shared.csproj.AssemblyReference.cache
+C:\Users\mfabbri\source\repos\Vs\MyWcf\MyWcf.Shared\obj\Debug\MyWcf.Shared.csproj.CoreCompileInputs.cache
+C:\Users\mfabbri\source\repos\Vs\MyWcf\MyWcf.Shared\obj\Debug\MyWcf.Shared.dll
+C:\Users\mfabbri\source\repos\Vs\MyWcf\MyWcf.Shared\obj\Debug\MyWcf.Shared.pdb
